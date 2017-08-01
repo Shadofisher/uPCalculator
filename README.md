@@ -35,3 +35,4 @@ The idea initially was to use the STM only. However, it quickly became eveident 
 Therefore the idea of bolting on a 'co-processor' arose and works quite well.
 
 
+The following is a list of pin numbers :
